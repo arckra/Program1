@@ -8,10 +8,8 @@ class MainApp:
         self.master = master
         self.master.title("Aplikasi Data Mahasiswa")
 
-        # Inisialisasi DataMahasiswa
         self.data_mahasiswa = DataMahasiswa()
 
-        # Membuat tombol-tombol pada jendela utama
         self._create_widgets()
 
     def _create_widgets(self):
