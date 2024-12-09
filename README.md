@@ -46,27 +46,27 @@ if __name__ == "__main__":
 
 # Jawaban dari code main.py
 **Awal Mula**
+
 ![Screenshot 2024-12-09 205022](https://github.com/user-attachments/assets/cad9a88f-a7a6-44a0-8ef1-7aa0763ef0c2)
 
-
 **Proses Input Data**
+
 ![Screenshot 2024-12-09 205107](https://github.com/user-attachments/assets/a97aada1-a35c-42a8-9bf0-83b94078a3c5)
 
-
 **Menampilkan Data**
+
 ![Screenshot 2024-12-09 205245](https://github.com/user-attachments/assets/e376b5a4-0ade-41a7-9d9e-cc0fa9bac75c)
 
-
 **Mencari Data sesuai kata kunci**
+
 ![Screenshot 2024-12-09 205310](https://github.com/user-attachments/assets/a8ebfc87-4881-43d5-8eba-813d9ced012c)
 
-
 **Mengganti Data**
+
 ![Screenshot 2024-12-09 205344](https://github.com/user-attachments/assets/439cb1c1-0b40-43f3-943a-debb3eab3fa8)
 
-
 **Menghapus Data**
-![Screenshot 2024-12-09 205407](https://github.com/user-attachments/assets/76ea1419-60b4-4851-a8d3-e0dd2bdcd0be)
 
+![Screenshot 2024-12-09 205407](https://github.com/user-attachments/assets/76ea1419-60b4-4851-a8d3-e0dd2bdcd0be)
 
 **SELESAI**
